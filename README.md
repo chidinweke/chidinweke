@@ -39,13 +39,6 @@ I don't just write code. I think about:
 
 My background in Human-Computer Interaction (MSc) and product design means I build products that are both technically robust and genuinely usable.
 
-## 📫 Connect
-
-- [LinkedIn](https://linkedin.com/in/chidinweke)
-- [Portfolio](https://chidinweke.com)
-- Email: nweekechidebere@gmail.com
-
-
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/chidinweke) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chidinweke/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@chidnweke) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nwekechidiebere@gmail.com) 
 
