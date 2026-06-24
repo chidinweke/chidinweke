@@ -1,8 +1,14 @@
 # 👋 Hi, I'm Chidiebere Nweke
 
-**Senior Frontend Engineer & Product Designer** with 10+ years of experience building scalable, real-time consumer platforms.
+**Senior Frontend Engineer • Product Lead • Product Designer • AI-Native Builder** 
 
-I bridge the gap between engineering and design architecting production-grade frontend systems while obsessing over user experience, performance, and how products actually feel to real people.
+Building scalable, real-time consumer platforms that users actually love.
+
+**10+ years** of experience architecting production-grade applications with **React, Next.js, TypeScript, and modern frontend tooling**. I build high-performance interfaces—social feeds, real-time dashboards, messaging systems, live data experiences—that serve thousands of concurrent users.
+
+As a **Product Lead**, I drive product vision, align cross-functional teams, and make strategic decisions that balance user needs, technical feasibility, and business goals.
+
+My background in product design and Human-Computer Interaction (MSc) means I think about **performance, usability, and user psychology** alongside clean code architecture.
 
 ## What I Build
 
