@@ -2,7 +2,7 @@
 
 **Senior Frontend Engineer & Product Designer** with 10+ years of experience building scalable, real-time consumer platforms.
 
-I bridge the gap between engineering and design—architecting production-grade frontend systems while obsessing over user experience, performance, and how products actually feel to real people.
+I bridge the gap between engineering and design architecting production-grade frontend systems while obsessing over user experience, performance, and how products actually feel to real people.
 
 ## What I Build
 
@@ -52,4 +52,4 @@ My background in Human-Computer Interaction (MSc) and product design means I bui
 ---
 [![](https://komarev.com/ghpvc/?username=chidinweke&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
